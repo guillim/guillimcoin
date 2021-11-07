@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-20
+img: trade.png
+alt: image-alt
+desc: Trade
+description: Trade your GuillimCoins (GUIC) on Pancakeswap or send some GUIC to you friends. Easy, like any other currrency !
+---
