@@ -41,9 +41,9 @@ twitter:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - package.json
-  - package-lock.json
+  # - node_modules
+  # - package.json
+  # - package-lock.json
   - README.md
   - postcss.config.js
   - purgecss.config.js
