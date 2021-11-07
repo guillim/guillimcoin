@@ -13,14 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: GHA Jekyll Build
-      # uses: gha-utilities/jekyll-build@8b43cedd2ed9e4ad9e9d5f1ac5ed19978abcd649
-      uses: gha-utilities/jekyll-build@v0.0.7
-      with:
-        # Relative path that source files for Jekyll to build exist
-        source: # optional
-        # Path where compiled site files should be saved to
-        destination: /_site/
     - name: NPM or Yarn install with caching
       # You may pin to the exact commit or the version.
       # uses: bahmutov/npm-install@44b9e76df0949f3df6616b334af42e055ce24831
