@@ -38,15 +38,18 @@ soopr:
 twitter:
   card: summary_large_image
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  # - node_modules
-  # - package.json
-  # - package-lock.json
-  - README.md
-  - postcss.config.js
-  - purgecss.config.js
-  - tailwind.config.js
-  - .gitignore
-  - vendor
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   # - node_modules
+#   # - package.json
+#   # - package-lock.json
+#   - README.md
+#   - postcss.config.js
+#   - purgecss.config.js
+#   - tailwind.config.js
+#   - .gitignore
+#   - vendor
+
+include:
+  - .nojekyll
