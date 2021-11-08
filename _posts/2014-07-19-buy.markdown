@@ -6,5 +6,5 @@ img: card.png
 alt: image-alt
 desc: Buy
 description: "PancakeSwap is a platform on which you can buy some GuillimCoins. Cannot find it ? Paste the GuillimCoin (GUIC) contract adress : 0x9590b5fc46a499ad1f6d72d39b5224b1b4986fb3"
-html: '<a type="button" class="btn btn-primary" style="margin-top: 40px; display: flex; margin: auto; width: fit-content;" href="https://pancakeswap.finance/swap"> <img src="img/pancakeswap.png" class="img-responsive img-centered" style="max-height: 30px; margin: 0;"></a>'
+html: '<a type="button" class="btn btn-primary" style="margin-top: 40px; display: flex; margin: auto; width: fit-content;" href="https://pancakeswap.finance/swap?inputCurrency=0x2170ed0880ac9a755fd29b2688956bd959f933f8&outputCurrency=0x9590b5fc46a499ad1f6d72d39b5224b1b4986fb3"> <img src="img/pancakeswap.png" class="img-responsive img-centered" style="max-height: 30px; margin: 0;"></a>'
 ---
